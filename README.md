@@ -1,4 +1,4 @@
-# Azure Media Player POst example component
+# Azure Media Player Post example component
 
 This is a example usage of a React component wrapper for the azure media player without Post specific inclusions.
 
